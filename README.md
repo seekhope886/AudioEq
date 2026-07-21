@@ -1,4 +1,5 @@
-# AudioEq
+# AudioEq<img width="32" height="32" alt="audioeq" src="https://github.com/user-attachments/assets/6769fdba-e0d0-4178-a988-c6d79d7bc505" />
+
 **Audio Equalizer &amp; Real-time Spectrum Visualizer**
 # AudioEq Extension for MIT App Inventor 2
 
